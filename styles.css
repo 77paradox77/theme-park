@@ -1,0 +1,14 @@
+.rides div {
+  display: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+}
+
+form {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
